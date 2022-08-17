@@ -1,0 +1,13 @@
+Network Computer
+
+The Network Computer (or NC) was a diskless desktop computer device made by Oracle Corporation from about 1996 to 2000. The devices were designed and manufactured by an alliance, which included Sun Microsystems, IBM, and others. The devices were designed with minimum specifications, based on the Network Computer Reference Profile. The brand was also employed as a marketing term to try to popularize this design of computer within enterprise and among consumers.[citation needed]
+
+The NC brand was mainly intended to inspire a range of desktop computers from various suppliers that, by virtue of their diskless design and use of inexpensive components and software, were cheaper and easier to manage than standard fat client desktops. However, due to the commoditization of standard desktop components, and due to the increasing availability and popularity of various software options for using full desktops as diskless nodes, thin clients, and hybrid clients, the Network Computer brand never achieved the popularity hoped for by Oracle and was eventually mothballed.
+
+History
+
+The failure of the NC to impact on the scale predicted by Larry Ellison may have been caused by a number of factors. Firstly, prices of PCs quickly fell below $1000, making the competition very hard. Secondly, the software available for NCs was neither mature nor open.[1][failed verification]
+
+Thirdly, the idea could simply have been ahead of its time, as at the NC's launch in 1996, the typical home Internet connection was only a 28.8 kbit/s modem dialup. This was simply insufficient for the delivery of executable content. The World Wide Web itself was not considered mainstream until its breakout year, 1998. Prior to this, very few Internet service providers advertised in mainstream press (at least outside of the US), and knowledge of the Internet was limited. This could have held back uptake of what would be seen as a very niche device with no (then) obvious appeal.
+
+NCs ended up being used as the very 'dumb terminals' they were intended[citation needed] to replace, as the proprietary backend infrastructure is not readily available.[clarification needed] 1990s era NCs are often network-booted into a minimal Unix with X, to serve as X terminals. While NC purists may consider this to be a suboptimal use of NC hardware, the NCs work well as terminals, and are considerably cheaper than purpose-built terminal hardware.[citation needed]
